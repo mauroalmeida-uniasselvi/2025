@@ -50,4 +50,8 @@ const disco = {
   ],
 };
 
+function tamanhoTotal(pasta) {
+  
+}
+
 console.log(tamanhoTotal(disco));

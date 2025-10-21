@@ -49,5 +49,11 @@ const sistema = {
 };
 
 
+function buscarArquivo(pastas, nomeDoArquivo) {
+
+
+}
+
+
 console.log(buscarArquivo(sistema, "server.js")); // true
 console.log(buscarArquivo(sistema, "relatorio.docx")); // false
